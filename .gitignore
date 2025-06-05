@@ -1,2 +1,11 @@
-st_env/
-test.ipynb
+# virtual environment
+/st_env/
+
+# test files
+# ignore all .py and .ipynb file whose filename includes "test"
+*test*.py
+*test*.ipynb
+
+# test folder
+test/
+
